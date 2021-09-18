@@ -1,0 +1,47 @@
+/*All block*/
+.* {
+    margin:0;
+    padding:0;
+  }
+.text_all_color{
+    color:#D3D3D3;
+    font-family: serif;
+    background-color:black;
+}
+/*Navigation menu*/
+.navigation_menu_projects, .navigation_menu_ins, .navigation_menu_tel, .navigation_menu_mail {
+    width: 210px;	height: 30px;
+    color:#9a9fa3;
+    padding: 10px 100px 0 50px;
+    background-color: #80868d3a;
+    display:inline-block;
+}
+.navigation_menu_projects {
+    margin-left: 100px;
+}
+
+/*Main Logo*/
+.main_logo {
+    margin: 10px 0 100px 300px;
+    height: 100px;
+    width: 600px;
+}
+
+/*Main two photo*/
+.main_photo {
+    margin-left: 20px;
+}
+/*Left Sidebar*/
+.left_sidebar {
+    margin: -55px 0 0 0;
+    position: absolute;
+    right: 40px;
+    width: 200px;
+    height: 1200px;
+    background-color: #80868d3a;
+}
+.Gallery_txt_left_sidebar {
+    padding-left: 50px;
+    margin-top: 10px;
+    color:#9a9fa3;
+}
